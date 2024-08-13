@@ -80,7 +80,7 @@
 
 ---
 
-### Chủ đề: Quản lý tệp tin và điều hướng
+### Chủ đề 1: Quản lý tệp tin và điều hướng
 
 #### Câu hỏi 1: Phần mở rộng tệp tin (file extension) là gì? Đưa ra ví dụ liên quan đến các tệp tin lập trình.
 
@@ -152,7 +152,7 @@
 - [ ] C. "Save" lưu tệp tin, còn "Save As" không lưu
 - [ ] D. "Save" lưu tệp tin dưới định dạng mới, còn "Save As" giữ nguyên định dạng cũ
 
-### Chủ đề: Soạn thảo văn bản cơ bản
+### Chủ đề 2: Soạn thảo văn bản cơ bản
 
 #### Câu hỏi 11: Trình soạn thảo văn bản là gì? Kể tên một vài trình soạn thảo văn bản thường được sử dụng trong lập trình.
 
@@ -224,7 +224,7 @@
 - [ ] C. Sử dụng menu "Export" để lưu dưới dạng PDF
 - [x] D. Chọn "File" > "Save As" và chọn định dạng PDF từ danh sách tùy chọn
 
-### Chủ đề: Kỹ năng Internet và Trình duyệt cơ bản
+### Chủ đề 3: Kỹ năng Internet và Trình duyệt cơ bản
 
 #### Câu hỏi 21: Trình duyệt web là gì? Kể tên một vài trình duyệt web phổ biến.
 
@@ -296,7 +296,7 @@
 - [ ] C. HTTPS giúp giảm chi phí sử dụng Internet
 - [x] D. HTTPS mã hóa dữ liệu giữa trình duyệt và máy chủ, bảo vệ thông tin cá nhân và giao dịch khỏi bị theo dõi hoặc đánh cắp
 
-### Chủ đề: Công cụ và Môi trường lập trình
+### Chủ đề 4: Công cụ và Môi trường lập trình
 
 #### Câu hỏi 31: Môi trường Phát triển Tích hợp (IDE) là gì? Kể tên một vài IDE được sử dụng phổ biến.
 
@@ -368,7 +368,7 @@
 - [x] C. Gỡ lỗi là quá trình tìm và sửa lỗi trong mã nguồn, các công cụ gỡ lỗi cơ bản trong IDE có thể bao gồm điểm dừng (breakpoints), theo dõi biến (variable watch), và kiểm tra bước thực thi (step through code)
 - [ ] D. Gỡ lỗi là công cụ để tải trang web
 
-### Chủ đề: Khái niệm lập trình cơ bản
+### Chủ đề 5: Khái niệm lập trình cơ bản
 
 #### Câu hỏi 41: Chú thích mã nguồn (code comment) là gì? Làm thế nào để thêm chú thích vào mã nguồn trong ngôn ngữ lập trình của bạn?
 
@@ -442,7 +442,7 @@
 
 ---
 
-### Chủ đề: Nhận thức về Bảo mật cơ bản
+### Chủ đề 6: Nhận thức về Bảo mật cơ bản
 
 #### Câu hỏi 51: Mật khẩu mạnh (strong password) là gì? Giải thích cách tạo một mật khẩu mạnh.
 
