@@ -41,16 +41,16 @@
 
 4. [Công cụ và Môi trường lập trình](#chủ-đề-4-công-cụ-và-môi-trường-lập-trình)
 
-   - [Câu hỏi 30: Môi trường Phát triển Tích hợp (IDE) là gì? Kể tên một vài IDE được sử dụng phổ biến.](#câu-hỏi-31-môi-trường-phát-triển-tích-hợp-ide-là-gì-kể-tên-một-vài-ide-được-sử-dụng-phổ-biến)
-   - [Câu hỏi 31: Làm thế nào để tạo một dự án mới trong IDE như Visual Studio Code?](#câu-hỏi-32-làm-thế-nào-để-tạo-một-dự-án-mới-trong-ide-như-visual-studio-code)
-   - [Câu hỏi 32: Mục đích của terminal hoặc giao diện dòng lệnh trong lập trình là gì?](#câu-hỏi-33-mục-đích-của-terminal-hoặc-giao-diện-dòng-lệnh-trong-lập-trình-là-gì)
-   - [Câu hỏi 33: Giải thích các bước để biên dịch và chạy một chương trình đơn giản trong ngôn ngữ lập trình của bạn.](#câu-hỏi-34-giải-thích-các-bước-để-biên-dịch-và-chạy-một-chương-trình-đơn-giản-trong-ngôn-ngữ-lập-trình-của-bạn)
-   - [Câu hỏi 34: Kiểm soát phiên bản là gì? Giải thích mục đích của Git.](#câu-hỏi-35-kiểm-soát-phiên-bản-là-gì-giải-thích-mục-đích-của-git)
-   - [Câu hỏi 35: Làm thế nào để sao chép một kho lưu trữ từ GitHub về máy tính của bạn?](#câu-hỏi-36-làm-thế-nào-để-sao-chép-một-kho-lưu-trữ-từ-github-về-máy-tính-của-bạn)
-   - [Câu hỏi 36: Giải thích cách commit các thay đổi vào một kho lưu trữ Git.](#câu-hỏi-37-giải-thích-cách-commit-các-thay-đổi-vào-một-kho-lưu-trữ-git)
-   - [Câu hỏi 37: Các bước để đẩy mã nguồn lên kho lưu trữ từ xa như GitHub là gì?](#câu-hỏi-38-các-bước-để-đẩy-mã-nguồn-lên-kho-lưu-trữ-từ-xa-như-github-là-gì)
-   - [Câu hỏi 38: Làm thế nào để mở một tệp tin trong trình soạn thảo văn bản hoặc IDE?](#câu-hỏi-39-làm-thế-nào-để-mở-một-tệp-tin-trong-trình-soạn-thảo-văn-bản-hoặc-ide)
-   - [Câu hỏi 39: Gỡ lỗi (debugging) là gì? Giải thích cách sử dụng các công cụ gỡ lỗi cơ bản trong IDE.](#câu-hỏi-40-gỡ-lỗi-debugging-là-gì-giải-thích-cách-sử-dụng-các-công-cụ-gỡ-lỗi-cơ-bản-trong-ide)
+   - [Câu hỏi 31: Môi trường Phát triển Tích hợp (IDE) là gì? Kể tên một vài IDE được sử dụng phổ biến.](#câu-hỏi-31-môi-trường-phát-triển-tích-hợp-ide-là-gì-kể-tên-một-vài-ide-được-sử-dụng-phổ-biến)
+   - [Câu hỏi 32: Làm thế nào để tạo một dự án mới trong IDE như Visual Studio Code?](#câu-hỏi-32-làm-thế-nào-để-tạo-một-dự-án-mới-trong-ide-như-visual-studio-code)
+   - [Câu hỏi 33: Mục đích của terminal hoặc giao diện dòng lệnh trong lập trình là gì?](#câu-hỏi-33-mục-đích-của-terminal-hoặc-giao-diện-dòng-lệnh-trong-lập-trình-là-gì)
+   - [Câu hỏi 34: Giải thích các bước để biên dịch và chạy một chương trình đơn giản trong ngôn ngữ lập trình của bạn.](#câu-hỏi-34-giải-thích-các-bước-để-biên-dịch-và-chạy-một-chương-trình-đơn-giản-trong-ngôn-ngữ-lập-trình-của-bạn)
+   - [Câu hỏi 35: Kiểm soát phiên bản là gì? Giải thích mục đích của Git.](#câu-hỏi-35-kiểm-soát-phiên-bản-là-gì-giải-thích-mục-đích-của-git)
+   - [Câu hỏi 36: Làm thế nào để sao chép một kho lưu trữ từ GitHub về máy tính của bạn?](#câu-hỏi-36-làm-thế-nào-để-sao-chép-một-kho-lưu-trữ-từ-github-về-máy-tính-của-bạn)
+   - [Câu hỏi 37: Giải thích cách commit các thay đổi vào một kho lưu trữ Git.](#câu-hỏi-37-giải-thích-cách-commit-các-thay-đổi-vào-một-kho-lưu-trữ-git)
+   - [Câu hỏi 38: Các bước để đẩy mã nguồn lên kho lưu trữ từ xa như GitHub là gì?](#câu-hỏi-38-các-bước-để-đẩy-mã-nguồn-lên-kho-lưu-trữ-từ-xa-như-github-là-gì)
+   - [Câu hỏi 39: Làm thế nào để mở một tệp tin trong trình soạn thảo văn bản hoặc IDE?](#câu-hỏi-39-làm-thế-nào-để-mở-một-tệp-tin-trong-trình-soạn-thảo-văn-bản-hoặc-ide)
+   - [Câu hỏi 40: Gỡ lỗi (debugging) là gì? Giải thích cách sử dụng các công cụ gỡ lỗi cơ bản trong IDE.](#câu-hỏi-40-gỡ-lỗi-debugging-là-gì-giải-thích-cách-sử-dụng-các-công-cụ-gỡ-lỗi-cơ-bản-trong-ide)
 
 5. [Khái niệm lập trình cơ bản](#chủ-đề-5-khái-niệm-lập-trình-cơ-bản)
 
