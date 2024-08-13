@@ -34,23 +34,49 @@
    - [Câu hỏi 24: Làm thế nào để đánh dấu một trang web để dễ dàng truy cập lại sau này?](#câu-hỏi-24-làm-thế-nào-để-đánh-dấu-một-trang-web-để-dễ-dàng-truy-cập-lại-sau-này)
    - [Câu hỏi 25: Các bước để xóa lịch sử duyệt web và cookie là gì?](#câu-hỏi-25-các-bước-để-xóa-lịch-sử-duyệt-web-và-cookie-là-gì)
    - [Câu hỏi 26: Làm thế nào để tải xuống một tệp tin từ một trang web?](#câu-hỏi-26-làm-thế-nào-để-tải-xuống-một-tệp-tin-từ-một-trang-web)
-   - [Câu hỏi 27: Giải thích sự khác biệt giữa HTTP và HTTPS.](#câu-hỏi-27-giải-thích-sự-khác-biệt-giữa-http-và-https)
-   - [Câu hỏi 28: Làm thế nào để bảo vệ thông tin cá nhân của bạn khi duyệt web?](#câu-hỏi-28-làm-thế-nào-để-bảo-vệ-thông-tin-cá-nhân-của-bạn-khi-duyệt-web)
-   - [Câu hỏi 29: Các bước để xóa một trang web khỏi danh sách đánh dấu của bạn là gì?](#câu-hỏi-29-các-bước-để-xóa-một-trang-web-khỏi-danh-sách-đánh-dấu-của-bạn-là-gì)
-   - [Câu hỏi 30: Giải thích cách sử dụng các công cụ mở rộng trình duyệt (browser extensions).](#câu-hỏi-30-giải-thích-cách-sử-dụng-các-công-cụ-mở-rộng-trình-duyệt-browser-extensions)
+   - [Câu hỏi 27: Giải thích sự khác biệt giữa HTTP và HTTPS.](#câu-hỏi-27-giải-thích-cách-sử-dụng-công-cụ-tìm-kiếm-để-tìm-thông-tin-trên-internet)
+   - [Câu hỏi 28: Làm thế nào để bảo vệ thông tin cá nhân của bạn khi duyệt web?](#câu-hỏi-28-làm-thế-nào-để-bật-hoặc-tắt-các-tiện-ích-mở-rộng-hoặc-add-on-trong-trình-duyệt)
+   - [Câu hỏi 29: Các bước để xóa một trang web khỏi danh sách đánh dấu của bạn là gì?](#câu-hỏi-29-trình-chặn-pop-up-là-gì-làm-thế-nào-để-quản-lý-pop-up-trong-trình-duyệt-của-bạn)
+   - [Câu hỏi 30: Giải thích cách sử dụng các công cụ mở rộng trình duyệt (browser extensions).](#câu-hỏi-30-giải-thích-tầm-quan-trọng-của-việc-sử-dụng-các-trang-web-bảo-mật-https-để-giao-dịch)
 
-4. [Tư duy logic và giải quyết vấn đề](#chủ-đề-tư-duy-logic-và-giải-quyết-vấn-đề)
+4. [Chủ đề: Công cụ và Môi trường lập trình](#chủ-đề-công-cụ-và-môi-trường-lập-trình)
 
-   - [Câu hỏi 53: Giải thích tầm quan trọng của tư duy logic trong lập trình.](#câu-hỏi-53-giải-thích-tầm-quan-trọng-của-tư-duy-logic-trong-lập-trình)
-   - [Câu hỏi 54: Làm thế nào để chia một vấn đề lớn thành các bước nhỏ hơn để dễ giải quyết hơn?](#câu-hỏi-54-làm-thế-nào-để-chia-một-vấn-đề-lớn-thành-các-bước-nhỏ-hơn-để-dễ-giải-quyết-hơn)
-   - [Câu hỏi 55: Giải thích sự khác biệt giữa lỗi logic và lỗi cú pháp trong lập trình.](#câu-hỏi-55-giải-thích-sự-khác-biệt-giữa-lỗi-logic-và-lỗi-cú-pháp-trong-lập-trình)
-   - [Câu hỏi 56: Làm thế nào để kiểm tra và gỡ lỗi một đoạn mã khi nó không hoạt động như mong đợi?](#câu-hỏi-56-làm-thế-nào-để-kiểm-tra-và-gỡ-lỗi-một-đoạn-mã-khi-nó-không-hoạt-động-như-mong-đợi)
-   - [Câu hỏi 57: Giải thích tầm quan trọng của việc thử nghiệm và kiểm tra mã nguồn.](#câu-hỏi-57-giải-thích-tầm-quan-trọng-của-việc-thử-nghiệm-và-kiểm-tra-mã-nguồn)
-   - [Câu hỏi 58: Làm thế nào để tìm kiếm giải pháp cho một vấn đề kỹ thuật trực tuyến?](#câu-hỏi-58-làm-thế-nào-để-tìm-kiếm-giải-pháp-cho-một-vấn-đề-kỹ-thuật-trực-tuyến)
-   - [Câu hỏi 59: Giải thích mục đích của việc viết tài liệu mã nguồn và cách nó giúp ích cho lập trình viên.](#câu-hỏi-59-giải-thích-mục-đích-của-việc-viết-tài-liệu-mã-nguồn-và-cách-nó-giúp-ích-cho-lập-trình-viên)
-   - [Câu hỏi 60: Làm thế nào để cải thiện kỹ năng lập trình của bạn thông qua thực hành và học hỏi từ các ví dụ mã nguồn?](#câu-hỏi-60-làm-thế-nào-để-cải-thiện-kỹ-năng-lập-trình-của-bạn-thông-qua-thực-hành-và-học-hỏi-từ-các-ví-dụ-mã-nguồn)
-   - [Câu hỏi 61: Giải thích cách duy trì một tư duy cởi mở và sẵn sàng học hỏi trong lĩnh vực lập trình.](#câu-hỏi-61-giải-thích-cách-duy-trì-một-tư-duy-cởi-mở-và-sẵn-sàng-học-hỏi-trong-lĩnh-vực-lập-trình)
-   - [Câu hỏi 62: Làm thế nào để giải quyết một vấn đề lập trình mà bạn chưa từng gặp trước đây?](#câu-hỏi-62-làm-thế-nào-để-giải-quyết-một-vấn-đề-lập-trình-mà-bạn-chưa-từng-gặp-trước-đây)
+   - [Câu hỏi 30: Môi trường Phát triển Tích hợp (IDE) là gì? Kể tên một vài IDE được sử dụng phổ biến.](#câu-hỏi-31-môi-trường-phát-triển-tích-hợp-ide-là-gì-kể-tên-một-vài-ide-được-sử-dụng-phổ-biến)
+   - [Câu hỏi 31: Làm thế nào để tạo một dự án mới trong IDE như Visual Studio Code?](#câu-hỏi-32-làm-thế-nào-để-tạo-một-dự-án-mới-trong-ide-như-visual-studio-code)
+   - [Câu hỏi 32: Mục đích của terminal hoặc giao diện dòng lệnh trong lập trình là gì?](#câu-hỏi-33-mục-đích-của-terminal-hoặc-giao-diện-dòng-lệnh-trong-lập-trình-là-gì)
+   - [Câu hỏi 33: Giải thích các bước để biên dịch và chạy một chương trình đơn giản trong ngôn ngữ lập trình của bạn.](#câu-hỏi-34-giải-thích-các-bước-để-biên-dịch-và-chạy-một-chương-trình-đơn-giản-trong-ngôn-ngữ-lập-trình-của-bạn)
+   - [Câu hỏi 34: Kiểm soát phiên bản là gì? Giải thích mục đích của Git.](#câu-hỏi-35-kiểm-soát-phiên-bản-là-gì-giải-thích-mục-đích-của-git)
+   - [Câu hỏi 35: Làm thế nào để sao chép một kho lưu trữ từ GitHub về máy tính của bạn?](#câu-hỏi-36-làm-thế-nào-để-sao-chép-một-kho-lưu-trữ-từ-github-về-máy-tính-của-bạn)
+   - [Câu hỏi 36: Giải thích cách commit các thay đổi vào một kho lưu trữ Git.](#câu-hỏi-37-giải-thích-cách-commit-các-thay-đổi-vào-một-kho-lưu-trữ-git)
+   - [Câu hỏi 37: Các bước để đẩy mã nguồn lên kho lưu trữ từ xa như GitHub là gì?](#câu-hỏi-38-các-bước-để-đẩy-mã-nguồn-lên-kho-lưu-trữ-từ-xa-như-github-là-gì)
+   - [Câu hỏi 38: Làm thế nào để mở một tệp tin trong trình soạn thảo văn bản hoặc IDE?](#câu-hỏi-39-làm-thế-nào-để-mở-một-tệp-tin-trong-trình-soạn-thảo-văn-bản-hoặc-ide)
+   - [Câu hỏi 39: Gỡ lỗi (debugging) là gì? Giải thích cách sử dụng các công cụ gỡ lỗi cơ bản trong IDE.](#câu-hỏi-40-gỡ-lỗi-debugging-là-gì-giải-thích-cách-sử-dụng-các-công-cụ-gỡ-lỗi-cơ-bản-trong-ide)
+
+5. [Chủ đề: Khái niệm lập trình cơ bản](#chủ-đề-khái-niệm-lập-trình-cơ-bản)
+
+   - [Câu hỏi 41: Chú thích mã nguồn (code comment) là gì? Làm thế nào để thêm chú thích vào mã nguồn trong ngôn ngữ lập trình của bạn?](#câu-hỏi-41-chú-thích-mã-nguồn-code-comment-là-gì-làm-thế-nào-để-thêm-chú-thích-vào-mã-nguồn-trong-ngôn-ngữ-lập-trình-của-bạn)
+   - [Câu hỏi 42: Giải thích mục đích của việc thụt lề (indentation) trong lập trình.](#câu-hỏi-42-giải-thích-mục-đích-của-việc-thụt-lề-indentation-trong-lập-trình)
+   - [Câu hỏi 43: Lỗi cú pháp (syntax error) là gì? Đưa ra một ví dụ về lỗi cú pháp phổ biến.](#câu-hỏi-43-lỗi-cú-pháp-syntax-error-là-gì-đưa-ra-một-ví-dụ-về-lỗi-cú-pháp-phổ-biến)
+   - [Câu hỏi 44: Vòng lặp (loop) là gì? Kể tên một vài loại vòng lặp được sử dụng trong lập trình.](#câu-hỏi-44-vòng-lặp-loop-là-gì-kể-tên-một-vài-loại-vòng-lặp-được-sử-dụng-trong-lập-trình)
+   - [Câu hỏi 45: Làm thế nào để khai báo một biến trong ngôn ngữ lập trình của bạn?](#câu-hỏi-45-làm-thế-nào-để-khai-báo-một-biến-trong-ngôn-ngữ-lập-trình-của-bạn)
+   - [Câu hỏi 46: Giải thích sự khác biệt giữa hàm (function) và vòng lặp (loop).](#câu-hỏi-46-giải-thích-sự-khác-biệt-giữa-hàm-function-và-vòng-lặp-loop)
+   - [Câu hỏi 47: Các bước để in ra "Hello, World!" trong ngôn ngữ lập trình của bạn là gì?](#câu-hỏi-47-các-bước-để-in-ra-hello-world-trong-ngôn-ngữ-lập-trình-của-bạn-là-gì)
+   - [Câu hỏi 48: Mảng (array) là gì? Giải thích cách tạo và truy cập các phần tử trong mảng.](#câu-hỏi-48-mảng-array-là-gì-giải-thích-cách-tạo-và-truy-cập-các-phần-tử-trong-mảng)
+   - [Câu hỏi 49: Câu lệnh điều kiện (conditional statement) là gì? Đưa ra một ví dụ về câu lệnh if-else.](#câu-hỏi-49-câu-lệnh-điều-kiện-conditional-statement-là-gì-đưa-ra-một-ví-dụ-về-câu-lệnh-if-else)
+   - [Câu hỏi 50: Làm thế nào để tạo một hàm trả về tổng của hai số?](#câu-hỏi-50-làm-thế-nào-để-tạo-một-hàm-trả-về-tổng-của-hai-số)
+
+6. [Chủ đề: Nhận thức về Bảo mật cơ bản](#chủ-đề-nhận-thức-về-bảo-mật-cơ-bản)
+
+   - [Câu hỏi 51: Mật khẩu mạnh (strong password) là gì? Giải thích cách tạo một mật khẩu mạnh.](#câu-hỏi-51-mật-khẩu-mạnh-strong-password-là-gì-giải-thích-cách-tạo-một-mật-khẩu-mạnh)
+   - [Câu hỏi 52: Xác thực hai yếu tố (two-factor authentication, 2FA) là gì? Giải thích tầm quan trọng của nó.](#câu-hỏi-52-xác-thực-hai-yếu-tố-two-factor-authentication-2fa-là-gì-giải-thích-tầm-quan-trọng-của-nó)
+   - [Câu hỏi 53: Làm thế nào để nhận biết một email lừa đảo (phishing)? Bạn nên làm gì nếu nhận được một email lừa đảo?](#câu-hỏi-53-làm-thế-nào-để-nhận-biết-một-email-lừa-đảo-phishing-bạn-nên-làm-gì-nếu-nhận-được-một-email-lừa-đảo)
+   - [Câu hỏi 54: Phần mềm độc hại (malware) là gì? Giải thích cách bảo vệ máy tính của bạn khỏi phần mềm độc hại.](#câu-hỏi-54-phần-mềm-độc-hại-malware-là-gì-giải-thích-cách-bảo-vệ-máy-tính-của-bạn-khỏi-phần-mềm-độc-hại)
+   - [Câu hỏi 55: Tường lửa (firewall) là gì? Nó giúp bảo vệ máy tính của bạn như thế nào?](#câu-hỏi-55-tường-lửa-firewall-là-gì-nó-giúp-bảo-vệ-máy-tính-của-bạn-như-thế-nào)
+   - [Câu hỏi 56: Giải thích tầm quan trọng của việc cập nhật phần mềm thường xuyên.](#câu-hỏi-56-giải-thích-tầm-quan-trọng-của-việc-cập-nhật-phần-mềm-thường-xuyên)
+   - [Câu hỏi 57: Mã hóa (encryption) là gì? Giải thích tại sao mã hóa lại quan trọng trong giao tiếp trực tuyến.](#câu-hỏi-57-mã-hóa-encryption-là-gì-giải-thích-tại-sao-mã-hóa-lại-quan-trọng-trong-giao-tiếp-trực-tuyến)
+   - [Câu hỏi 58: Làm thế nào để bảo vệ dữ liệu cá nhân khi trực tuyến?](#câu-hỏi-58-làm-thế-nào-để-bảo-vệ-dữ-liệu-cá-nhân-khi-trực-tuyến)
+   - [Câu hỏi 59: VPN (Virtual Private Network) là gì? Giải thích cách VPN giúp bảo vệ quyền riêng tư của bạn.](#câu-hỏi-59-vpn-virtual-private-network-là-gì-giải-thích-cách-vpn-giúp-bảo-vệ-quyền-riêng-tư-của-bạn)
+   - [Câu hỏi 60: Nhận diện dấu hiệu máy tính bị nhiễm virus là gì? Bạn nên làm gì nếu nghi ngờ máy tính bị nhiễm virus?](#câu-hỏi-60-nhận-diện-dấu-hiệu-máy-tính-bị-nhiễm-virus-là-gì-bạn-nên-làm-gì-nếu-nghi-ngờ-máy-tính-bị-nhiễm-virus)
 
 ---
 
@@ -413,6 +439,8 @@
 - [ ] B. Tạo một vòng lặp để tính tổng
 - [x] C. Tạo một hàm với hai tham số, tính tổng của chúng và trả về giá trị; ví dụ: `function sum(a, b) { return a + b; }` trong JavaScript
 - [ ] D. Tạo một câu lệnh điều kiện để tính tổng
+
+---
 
 ### Chủ đề: Nhận thức về Bảo mật cơ bản
 
