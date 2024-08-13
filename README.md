@@ -1,6 +1,6 @@
 # Mục Lục
 
-1. [Quản lý tệp tin và điều hướng](#chủ-đề-quản-lý-tệp-tin-và-điều-hướng)
+1. [Quản lý tệp tin và điều hướng](#chủ-đề-1-quản-lý-tệp-tin-và-điều-hướng)
 
    - [Câu hỏi 1: Phần mở rộng tệp tin (file extension) là gì? Đưa ra ví dụ liên quan đến các tệp tin lập trình.](#câu-hỏi-1-phần-mở-rộng-tệp-tin-file-extension-là-gì-đưa-ra-ví-dụ-liên-quan-đến-các-tệp-tin-lập-trình)
    - [Câu hỏi 2: Giải thích sự khác nhau giữa tệp tin và thư mục.](#câu-hỏi-2-giải-thích-sự-khác-nhau-giữa-tệp-tin-và-thư-mục)
@@ -13,7 +13,7 @@
    - [Câu hỏi 9: Tệp tin ẩn là gì? Làm thế nào để xem các tệp tin ẩn trên máy tính của bạn?](#câu-hỏi-9-tệp-tin-ẩn-là-gì-làm-thế-nào-để-xem-các-tệp-tin-ẩn-trên-máy-tính-của-bạn)
    - [Câu hỏi 10: Giải thích sự khác biệt giữa việc lưu (Save) và "Lưu thành" (Save As) khi làm việc với tệp tin.](#câu-hỏi-10-giải-thích-sự-khác-biệt-giữa-việc-lưu-save-và-lưu-thành-save-as-khi-làm-việc-với-tệp-tin)
 
-2. [Soạn thảo văn bản cơ bản](#chủ-đề-soạn-thảo-văn-bản-cơ-bản)
+2. [Soạn thảo văn bản cơ bản](#chủ-đề-2-soạn-thảo-văn-bản-cơ-bản)
 
    - [Câu hỏi 11: Trình soạn thảo văn bản là gì? Kể tên một vài trình soạn thảo văn bản thường được sử dụng trong lập trình.](#câu-hỏi-11-trình-soạn-thảo-văn-bản-là-gì-kể-tên-một-vài-trình-soạn-thảo-văn-bản-thường-được-sử-dụng-trong-lập-trình)
    - [Câu hỏi 12: Làm thế nào để tạo một tài liệu mới trong phần mềm soạn thảo văn bản như Microsoft Word?](#câu-hỏi-12-làm-thế-nào-để-tạo-một-tài-liệu-mới-trong-phần-mềm-soạn-thảo-văn-bản-như-microsoft-word)
@@ -26,7 +26,7 @@
    - [Câu hỏi 19: Giải thích mục đích của chức năng kiểm tra chính tả (spell check) trong phần mềm soạn thảo văn bản.](#câu-hỏi-19-giải-thích-mục-đích-của-chức-năng-kiểm-tra-chính-tả-spell-check-trong-phần-mềm-soạn-thảo-văn-bản)
    - [Câu hỏi 20: Các bước để lưu tài liệu dưới dạng PDF là gì?](#câu-hỏi-20-các-bước-để-lưu-tài-liệu-dưới-dạng-pdf-là-gì)
 
-3. [Kỹ năng Internet và Trình duyệt cơ bản](#chủ-đề-kỹ-năng-internet-và-trình-duyệt-cơ-bản)
+3. [Kỹ năng Internet và Trình duyệt cơ bản](#chủ-đề-3-kỹ-năng-internet-và-trình-duyệt-cơ-bản)
 
    - [Câu hỏi 21: Trình duyệt web là gì? Kể tên một vài trình duyệt web phổ biến.](#câu-hỏi-21-trình-duyệt-web-là-gì-kể-tên-một-vài-trình-duyệt-web-phổ-biến)
    - [Câu hỏi 22: Làm thế nào để mở một tab mới trong trình duyệt web?](#câu-hỏi-22-làm-thế-nào-để-mở-một-tab-mới-trong-trình-duyệt-web)
@@ -39,7 +39,7 @@
    - [Câu hỏi 29: Các bước để xóa một trang web khỏi danh sách đánh dấu của bạn là gì?](#câu-hỏi-29-trình-chặn-pop-up-là-gì-làm-thế-nào-để-quản-lý-pop-up-trong-trình-duyệt-của-bạn)
    - [Câu hỏi 30: Giải thích cách sử dụng các công cụ mở rộng trình duyệt (browser extensions).](#câu-hỏi-30-giải-thích-tầm-quan-trọng-của-việc-sử-dụng-các-trang-web-bảo-mật-https-để-giao-dịch)
 
-4. [Chủ đề: Công cụ và Môi trường lập trình](#chủ-đề-công-cụ-và-môi-trường-lập-trình)
+4. [Công cụ và Môi trường lập trình](#chủ-đề-4-công-cụ-và-môi-trường-lập-trình)
 
    - [Câu hỏi 30: Môi trường Phát triển Tích hợp (IDE) là gì? Kể tên một vài IDE được sử dụng phổ biến.](#câu-hỏi-31-môi-trường-phát-triển-tích-hợp-ide-là-gì-kể-tên-một-vài-ide-được-sử-dụng-phổ-biến)
    - [Câu hỏi 31: Làm thế nào để tạo một dự án mới trong IDE như Visual Studio Code?](#câu-hỏi-32-làm-thế-nào-để-tạo-một-dự-án-mới-trong-ide-như-visual-studio-code)
@@ -52,7 +52,7 @@
    - [Câu hỏi 38: Làm thế nào để mở một tệp tin trong trình soạn thảo văn bản hoặc IDE?](#câu-hỏi-39-làm-thế-nào-để-mở-một-tệp-tin-trong-trình-soạn-thảo-văn-bản-hoặc-ide)
    - [Câu hỏi 39: Gỡ lỗi (debugging) là gì? Giải thích cách sử dụng các công cụ gỡ lỗi cơ bản trong IDE.](#câu-hỏi-40-gỡ-lỗi-debugging-là-gì-giải-thích-cách-sử-dụng-các-công-cụ-gỡ-lỗi-cơ-bản-trong-ide)
 
-5. [Chủ đề: Khái niệm lập trình cơ bản](#chủ-đề-khái-niệm-lập-trình-cơ-bản)
+5. [Khái niệm lập trình cơ bản](#chủ-đề-5-khái-niệm-lập-trình-cơ-bản)
 
    - [Câu hỏi 41: Chú thích mã nguồn (code comment) là gì? Làm thế nào để thêm chú thích vào mã nguồn trong ngôn ngữ lập trình của bạn?](#câu-hỏi-41-chú-thích-mã-nguồn-code-comment-là-gì-làm-thế-nào-để-thêm-chú-thích-vào-mã-nguồn-trong-ngôn-ngữ-lập-trình-của-bạn)
    - [Câu hỏi 42: Giải thích mục đích của việc thụt lề (indentation) trong lập trình.](#câu-hỏi-42-giải-thích-mục-đích-của-việc-thụt-lề-indentation-trong-lập-trình)
@@ -65,7 +65,7 @@
    - [Câu hỏi 49: Câu lệnh điều kiện (conditional statement) là gì? Đưa ra một ví dụ về câu lệnh if-else.](#câu-hỏi-49-câu-lệnh-điều-kiện-conditional-statement-là-gì-đưa-ra-một-ví-dụ-về-câu-lệnh-if-else)
    - [Câu hỏi 50: Làm thế nào để tạo một hàm trả về tổng của hai số?](#câu-hỏi-50-làm-thế-nào-để-tạo-một-hàm-trả-về-tổng-của-hai-số)
 
-6. [Chủ đề: Nhận thức về Bảo mật cơ bản](#chủ-đề-nhận-thức-về-bảo-mật-cơ-bản)
+6. [Nhận thức về Bảo mật cơ bản](#chủ-đề-6-nhận-thức-về-bảo-mật-cơ-bản)
 
    - [Câu hỏi 51: Mật khẩu mạnh (strong password) là gì? Giải thích cách tạo một mật khẩu mạnh.](#câu-hỏi-51-mật-khẩu-mạnh-strong-password-là-gì-giải-thích-cách-tạo-một-mật-khẩu-mạnh)
    - [Câu hỏi 52: Xác thực hai yếu tố (two-factor authentication, 2FA) là gì? Giải thích tầm quan trọng của nó.](#câu-hỏi-52-xác-thực-hai-yếu-tố-two-factor-authentication-2fa-là-gì-giải-thích-tầm-quan-trọng-của-nó)
