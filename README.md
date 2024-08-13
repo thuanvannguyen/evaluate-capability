@@ -34,10 +34,10 @@
    - [Câu hỏi 24: Làm thế nào để đánh dấu một trang web để dễ dàng truy cập lại sau này?](#câu-hỏi-24-làm-thế-nào-để-đánh-dấu-một-trang-web-để-dễ-dàng-truy-cập-lại-sau-này)
    - [Câu hỏi 25: Các bước để xóa lịch sử duyệt web và cookie là gì?](#câu-hỏi-25-các-bước-để-xóa-lịch-sử-duyệt-web-và-cookie-là-gì)
    - [Câu hỏi 26: Làm thế nào để tải xuống một tệp tin từ một trang web?](#câu-hỏi-26-làm-thế-nào-để-tải-xuống-một-tệp-tin-từ-một-trang-web)
-   - [Câu hỏi 27: Giải thích sự khác biệt giữa HTTP và HTTPS.](#câu-hỏi-27-giải-thích-cách-sử-dụng-công-cụ-tìm-kiếm-để-tìm-thông-tin-trên-internet)
-   - [Câu hỏi 28: Làm thế nào để bảo vệ thông tin cá nhân của bạn khi duyệt web?](#câu-hỏi-28-làm-thế-nào-để-bật-hoặc-tắt-các-tiện-ích-mở-rộng-hoặc-add-on-trong-trình-duyệt)
-   - [Câu hỏi 29: Các bước để xóa một trang web khỏi danh sách đánh dấu của bạn là gì?](#câu-hỏi-29-trình-chặn-pop-up-là-gì-làm-thế-nào-để-quản-lý-pop-up-trong-trình-duyệt-của-bạn)
-   - [Câu hỏi 30: Giải thích cách sử dụng các công cụ mở rộng trình duyệt (browser extensions).](#câu-hỏi-30-giải-thích-tầm-quan-trọng-của-việc-sử-dụng-các-trang-web-bảo-mật-https-để-giao-dịch)
+   - [Câu hỏi 27: Giải thích cách sử dụng công cụ tìm kiếm để tìm thông tin trên internet.](#câu-hỏi-27-giải-thích-cách-sử-dụng-công-cụ-tìm-kiếm-để-tìm-thông-tin-trên-internet)
+   - [Câu hỏi 28: Làm thế nào để bật hoặc tắt các tiện ích mở rộng hoặc add-on trong trình duyệt?](#câu-hỏi-28-làm-thế-nào-để-bật-hoặc-tắt-các-tiện-ích-mở-rộng-hoặc-add-on-trong-trình-duyệt)
+   - [Câu hỏi 29: Trình chặn pop-up là gì? Làm thế nào để quản lý pop-up trong trình duyệt của bạn?](#câu-hỏi-29-trình-chặn-pop-up-là-gì-làm-thế-nào-để-quản-lý-pop-up-trong-trình-duyệt-của-bạn)
+   - [Câu hỏi 30: Giải thích tầm quan trọng của việc sử dụng các trang web bảo mật (HTTPS) để giao dịch.](#câu-hỏi-30-giải-thích-tầm-quan-trọng-của-việc-sử-dụng-các-trang-web-bảo-mật-https-để-giao-dịch)
 
 4. [Công cụ và Môi trường lập trình](#chủ-đề-4-công-cụ-và-môi-trường-lập-trình)
 
