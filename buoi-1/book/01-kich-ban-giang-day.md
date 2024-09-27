@@ -1,4 +1,4 @@
-# Buổi 1: Làm quen với máy tính, hệ điều hành và các công cụ hỗ trợ lập trình
+# Nội dung: Làm quen với máy tính, hệ điều hành và các công cụ hỗ trợ lập trình
 
 ## Mục lục
 1. [Giới thiệu về lập trình và quy trình phát triển phần mềm](#1-giới-thiệu-về-lập-trình-và-quy-trình-phát-triển-phần-mềm)
