@@ -1,4 +1,4 @@
-# Buổi 2: Công cụ lập trình bổ trợ và tư duy logic trong lập trình
+# Công cụ lập trình bổ trợ và tư duy logic trong lập trình
 
 ## Mục lục
 1. [Tư duy logic và giải quyết vấn đề](#1-tư-duy-logic-và-giải-quyết-vấn-đề)
