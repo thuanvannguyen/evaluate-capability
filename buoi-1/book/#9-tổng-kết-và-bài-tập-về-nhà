@@ -1,0 +1,48 @@
+# 9. Tổng kết và bài tập về nhà
+
+## Tổng kết các nội dung chính đã học
+
+Trong buổi học này, chúng ta đã khám phá nhiều khía cạnh quan trọng liên quan đến lập trình và sử dụng máy tính, bao gồm:
+
+1. **Giới thiệu về lập trình và quy trình phát triển phần mềm**:
+   - Hiểu được lập trình là gì và tầm quan trọng của nó trong thế giới công nghệ hiện đại.
+   - Nắm bắt quy trình phát triển phần mềm từ phân tích yêu cầu đến bảo trì sản phẩm.
+
+2. **Làm quen với máy tính và hệ điều hành**:
+   - Nhận biết các thành phần cơ bản của máy tính và phân biệt các hệ điều hành phổ biến như Windows, macOS và Linux.
+   - Làm quen với giao diện người dùng và các công cụ quản lý tệp tin.
+
+3. **Cấu trúc và tổ chức tệp tin**:
+   - Hiểu rõ các loại tệp tin phổ biến và cách tổ chức chúng một cách hiệu quả trong các dự án lập trình.
+   - Thực hành thao tác với tệp và thư mục.
+
+4. **Các khái niệm quan trọng trong lập trình và phần mềm**:
+   - Nắm vững khái niệm mã nguồn, biên dịch, thông dịch, và sự khác biệt giữa frontend và backend.
+   - Tìm hiểu về môi trường phát triển tích hợp (IDE) và quy trình debug.
+
+5. **Bảo mật cơ bản khi sử dụng máy tính và internet**:
+   - Hiểu các nguyên tắc bảo mật cơ bản và tầm quan trọng của việc bảo vệ thông tin cá nhân.
+   - Nhận diện các mối đe dọa như phishing và ransomware, cũng như cách bảo vệ máy tính khỏi các mã độc.
+
+## Bài tập về nhà
+
+Để củng cố kiến thức đã học, các bạn hãy thực hiện bài tập sau:
+
+### Tạo một dự án lập trình nhỏ
+
+1. **Mục tiêu dự án**:
+   - Xây dựng một ứng dụng quản lý tệp tin đơn giản. Ứng dụng này sẽ cho phép người dùng:
+     - Tạo, xóa, và di chuyển tệp tin trong một thư mục.
+     - Hiển thị danh sách các tệp tin trong thư mục đã chọn.
+
+2. **Công nghệ sử dụng**:
+   - Các bạn có thể sử dụng bất kỳ ngôn ngữ lập trình nào mà các bạn đã quen thuộc (như Python, JavaScript, v.v.) hoặc thử nghiệm với một ngôn ngữ mới.
+
+3. **Hướng dẫn thực hiện**:
+   - Bước 1: Tạo cấu trúc thư mục cho dự án của bạn.
+   - Bước 2: Viết mã nguồn để thực hiện các chức năng quản lý tệp tin.
+   - Bước 3: Sử dụng terminal để thực hiện các lệnh liên quan đến việc di chuyển và quản lý tệp tin.
+   - Bước 4: Tìm kiếm tài liệu hướng dẫn hoặc tham khảo qua Google để giúp bạn trong quá trình lập trình.
+
+4. **Nộp bài**:
+   - Hãy chia sẻ mã nguồn của bạn trên một nền tảng như GitHub hoặc gửi qua email cho giảng viên để nhận xét và phản hồi.
