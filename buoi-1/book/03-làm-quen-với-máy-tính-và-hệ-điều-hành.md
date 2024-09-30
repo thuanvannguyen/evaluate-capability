@@ -93,8 +93,6 @@ Hệ điều hành cung cấp giao diện người dùng (GUI) để bạn dễ 
 
 ### 2.3.1 Windows Explorer (Windows)
 
-![Windows Explorer](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Windows_10_-_File_Explorer.png/1280px-Windows_10_-_File_Explorer.png)
-
 - **Windows Explorer** là trình quản lý tệp tin mặc định trên Windows, giúp người dùng điều hướng qua các thư mục và tệp tin của họ. Các tính năng chính của Windows Explorer bao gồm:
   - **Thanh điều hướng (Navigation pane):** Giúp dễ dàng truy cập vào các thư mục và ổ đĩa.
   - **Taskbar:** Cho phép nhanh chóng chuyển đổi giữa các ứng dụng đang mở.
