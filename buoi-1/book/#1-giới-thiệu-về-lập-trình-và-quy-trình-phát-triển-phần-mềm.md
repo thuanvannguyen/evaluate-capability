@@ -23,8 +23,6 @@ Lập trình viên đóng vai trò quan trọng trong việc:
 - **Tự động hóa quy trình:** Lập trình giúp tự động hóa các nhiệm vụ lặp đi lặp lại, giúp doanh nghiệp tiết kiệm thời gian và nguồn lực.
 - **Khai thác và xử lý dữ liệu:** Lập trình viên tạo ra các công cụ để xử lý khối lượng dữ liệu khổng lồ (Big Data) giúp đưa ra các quyết định kinh doanh chiến lược.
 
----
-
 ## 1.2 Tại sao cần học lập trình?
 
 ### 1.2.1 Nhu cầu thị trường công nghệ
@@ -41,8 +39,6 @@ Lập trình không chỉ là một kỹ năng nghề nghiệp mà còn giúp c�
 - **Tư duy logic:** Lập trình giúp bạn rèn luyện tư duy logic qua việc tìm kiếm giải pháp cho các vấn đề phức tạp.
 - **Tính kiên nhẫn và tỉ mỉ:** Việc phải thường xuyên xử lý lỗi trong lập trình sẽ giúp bạn trở nên kiên nhẫn và chú ý đến từng chi tiết nhỏ nhất.
 - **Sáng tạo:** Lập trình cho phép bạn tự do sáng tạo, biến các ý tưởng thành sản phẩm cụ thể như ứng dụng web, trò chơi, hay hệ thống tự động.
-
----
 
 ## 1.3 Quy trình phát triển phần mềm
 
@@ -90,8 +86,6 @@ Sau khi phần mềm được phát triển và kiểm thử thành công, nó s
 
 - **Bảo trì:** Phần mềm cần được cập nhật thường xuyên để sửa lỗi, cải thiện hiệu suất hoặc bổ sung tính năng mới.
 - **Hỗ trợ người dùng:** Cung cấp tài liệu và hỗ trợ kỹ thuật để người dùng có thể sử dụng phần mềm một cách hiệu quả.
-
----
 
 ## 1.4 Kết luận
 

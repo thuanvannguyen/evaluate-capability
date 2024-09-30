@@ -32,8 +32,6 @@ Một máy tính cơ bản bao gồm hai thành phần chính: **phần cứng (
 
 > **Thực tế:** Phần mềm rất đa dạng và phong phú, bạn có thể lựa chọn các ứng dụng phù hợp với nhu cầu cá nhân hoặc công việc, từ các ứng dụng văn phòng đến phần mềm chuyên ngành như thiết kế đồ họa hoặc lập trình.
 
----
-
 ## 2.2 Hệ điều hành là gì?
 
 Hệ điều hành (**Operating System**) là phần mềm quan trọng nhất trên máy tính. Nó giúp bạn giao tiếp với máy tính mà không cần phải biết ngôn ngữ máy phức tạp. Hệ điều hành quản lý tài nguyên phần cứng, như CPU, RAM, và ổ cứng, đồng thời cung cấp giao diện người dùng để tương tác với các ứng dụng và dữ liệu.
@@ -85,8 +83,6 @@ Dưới đây là một số hệ điều hành phổ biến:
 
 > **Thực tế:** Linux chủ yếu được sử dụng trên máy chủ, máy tính cá nhân của các lập trình viên, hoặc trong các môi trường yêu cầu tính bảo mật và hiệu suất cao.
 
----
-
 ## 2.3 Giao diện hệ điều hành
 
 Hệ điều hành cung cấp giao diện người dùng (GUI) để bạn dễ dàng thao tác với máy tính thông qua việc quản lý tệp tin, ứng dụng và tài nguyên hệ thống. Dưới đây là các giao diện phổ biến trên từng hệ điều hành.
@@ -108,8 +104,6 @@ Hệ điều hành cung cấp giao diện người dùng (GUI) để bạn dễ 
 ### 2.3.3 File Manager (Linux)
 
 - **File Manager** là công cụ quản lý tệp tin phổ biến trên các bản phân phối Linux. Ngoài giao diện đồ họa, Linux còn cung cấp công cụ **Terminal**, cho phép người dùng thực hiện các tác vụ nâng cao thông qua dòng lệnh. Đây là một điểm mạnh của Linux đối với các lập trình viên và quản trị viên hệ thống.
-
----
 
 ## 2.4 Kết luận
 
