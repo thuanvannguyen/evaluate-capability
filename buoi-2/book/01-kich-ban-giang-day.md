@@ -1,157 +1,133 @@
-# Công cụ lập trình bổ trợ và tư duy logic trong lập trình
+# Buổi 2: Công cụ lập trình bổ trợ và tư duy logic trong lập trình
+
+## Mục tiêu buổi học
+
+- Xây dựng tư duy logic và kỹ năng giải quyết vấn đề trong lập trình.
+- Giới thiệu các công cụ lập trình cơ bản như IDE, kiểm tra mã nguồn, và sử dụng terminal.
+- Thực hành quản lý dự án đơn giản bằng công cụ Trello.
+- Tăng năng suất làm việc thông qua quản lý thời gian hiệu quả.
 
 ## Mục lục
-1. [Tư duy logic và giải quyết vấn đề](#1-tư-duy-logic-và-giải-quyết-vấn-đề)
-    - [Phân tích vấn đề và chia nhỏ](#phân-tích-vấn-đề-và-chia-nhỏ)
-    - [Cách tiếp cận bài toán](#cách-tiếp-cận-bài-toán)
-    - [Thực hành với bài toán tư duy](#thực-hành-với-bài-toán-tư-duy)
-2. [Môi trường phát triển phần mềm nâng cao](#2-môi-trường-phát-triển-phần-mềm-nâng-cao)
-    - [Tùy chỉnh IDE và tối ưu hoá công cụ](#tùy-chỉnh-ide-và-tối-ưu-hoá-công-cụ)
-    - [Thiết lập môi trường phát triển với Docker](#thiết-lập-môi-trường-phát-triển-với-docker)
-    - [Thực hành cấu hình môi trường ảo](#thực-hành-cấu-hình-môi-trường-ảo)
-3. [Công cụ quản lý dự án và làm việc nhóm](#3-công-cụ-quản-lý-dự-án-và-làm-việc-nhóm)
-    - [Các phương pháp quản lý dự án](#các-phương-pháp-quản-lý-dự-án)
-    - [Thực hành quản lý dự án trên Trello](#thực-hành-quản-lý-dự-án-trên-trello)
-4. [Quy trình làm việc nhóm và phát triển phần mềm](#4-quy-trình-làm-việc-nhóm-và-phát-triển-phần-mềm)
-    - [Scrum và Agile chi tiết](#scrum-và-agile-chi-tiết)
-    - [Vai trò của các thành viên trong nhóm](#vai-trò-của-các-thành-viên-trong-nhóm)
-5. [Công cụ quản lý phiên bản (Version Control)](#5-công-cụ-quản-lý-phiên-bản-version-control)
-    - [Git chuyên sâu](#git-chuyên-sâu)
-    - [Thực hành sử dụng GitHub/GitLab](#thực-hành-sử-dụng-githubgitlab)
-6. [Công cụ kiểm tra và phân tích mã nguồn](#6-công-cụ-kiểm-tra-và-phân-tích-mã-nguồn)
-    - [Cách kiểm tra mã tự động](#cách-kiểm-tra-mã-tự-động)
-    - [Thực hành với SonarQube](#thực-hành-với-sonarqube)
-7. [Tư duy tối ưu hoá và phân tích hiệu năng](#7-tư-duy-tối-ưu-hoá-và-phân-tích-hiệu-năng)
-    - [Tư duy tối ưu hoá](#tư-duy-tối-ưu-hoá)
-    - [Công cụ phân tích hiệu năng](#công-cụ-phân-tích-hiệu-năng)
-8. [Câu hỏi và giải đáp](#8-câu-hỏi-và-giải-đáp)
-9. [Tổng kết và bài tập về nhà](#9-tổng-kết-và-bài-tập-về-nhà)
 
----
+1. [Tư duy logic và giải quyết vấn đề](#1-tư-duy-logic-và-giải-quyết-vấn-đề)
+   - [Phân tích vấn đề và chia nhỏ](#phân-tích-vấn-đề-và-chia-nhỏ)
+   - [Cách tiếp cận bài toán và giải quyết vấn đề](#cách-tiếp-cận-bài-toán-và-giải-quyết-vấn-đề)
+   - [Thực hành với bài toán tư duy](#thực-hành-với-bài-toán-tư-duy)
+2. [Kỹ năng quản lý thời gian và năng suất làm việc](#2-kỹ-năng-quản-lý-thời-gian-và-năng-suất-làm-việc)
+   - [Lập kế hoạch và phân chia thời gian](#lập-kế-hoạch-và-phân-chia-thời-gian)
+   - [Công cụ hỗ trợ tăng năng suất](#công-cụ-hỗ-trợ-tăng-năng-suất)
+3. [Công cụ lập trình cơ bản](#3-công-cụ-lập-trình-cơ-bản)
+   - [Giới thiệu về IDE (Visual Studio Code)](#giới-thiệu-về-ide-visual-studio-code)
+   - [Các công cụ kiểm tra và định dạng mã nguồn (ESLint, Prettier)](#các-công-cụ-kiểm-tra-và-định-dạng-mã-nguồn)
+   - [Sử dụng terminal cơ bản](#sử-dụng-terminal-cơ-bản)
+   - [Thực hành cấu hình môi trường phát triển](#thực-hành-cấu-hình-môi-trường-phát-triển)
+4. [Công cụ quản lý dự án và làm việc nhóm](#4-công-cụ-quản-lý-dự-án-và-làm-việc-nhóm)
+   - [Giới thiệu về Trello](#giới-thiệu-về-trello)
+   - [Thực hành quản lý dự án trên Trello](#thực-hành-quản-lý-dự-án-trên-trello)
+5. [Câu hỏi và giải đáp](#5-câu-hỏi-và-giải-đáp)
+6. [Tổng kết và bài tập về nhà](#6-tổng-kết-và-bài-tập-về-nhà)
 
 ## 1. Tư duy logic và giải quyết vấn đề
+
 ### Phân tích vấn đề và chia nhỏ
-- **Phân tích vấn đề từ góc độ lập trình**:
-  - Mỗi bài toán lớn có thể được giải quyết bằng cách chia thành nhiều phần nhỏ hơn.
-  - **Phương pháp chia để trị (Divide and Conquer)**: Một trong những phương pháp phổ biến nhất trong tư duy lập trình.
-  
-- **Bước 1: Xác định rõ bài toán**:
-  - Hiểu rõ yêu cầu của bài toán trước khi nghĩ đến giải pháp.
-  - Hỏi lại câu hỏi "Vấn đề chính cần giải quyết là gì?"
 
-- **Bước 2: Chia nhỏ vấn đề**:
-  - **Ví dụ thực tế**: Nếu được yêu cầu xây dựng một ứng dụng quản lý sinh viên, học viên cần chia bài toán thành các phần nhỏ hơn như: thêm sinh viên, sửa thông tin, và xóa sinh viên.
-  
-- **Bước 3: Giải quyết từng phần nhỏ**:
-  - **Làm việc trên từng phần** giúp giảm độ phức tạp của bài toán lớn.
-  - Xây dựng giải pháp từng bước trước khi gộp chúng lại.
+- **Phân tích bài toán theo từng bước**:
+  - Xác định mục tiêu của bài toán, hiểu rõ yêu cầu.
+  - Hướng dẫn học viên cách chia nhỏ bài toán phức tạp thành các bước đơn giản hơn.
+- **Ví dụ: Quản lý sinh viên**:
+  - Xây dựng một hệ thống đơn giản: thêm, sửa, xóa thông tin sinh viên.
+  - Chia nhỏ các chức năng để học viên dễ tiếp cận.
 
-### Cách tiếp cận bài toán
+### Cách tiếp cận bài toán và giải quyết vấn đề
+
 - **Tư duy tìm giải pháp thay thế**:
-  - Không phải mọi bài toán đều có một giải pháp duy nhất.
-  - Khuyến khích học viên suy nghĩ nhiều cách giải khác nhau cho cùng một vấn đề.
-
+  - Đưa ra nhiều cách giải quyết vấn đề để học viên lựa chọn và thảo luận.
 - **Thực hành lập kế hoạch trước khi code**:
-  - Vẽ sơ đồ (diagram) cho các bước giải quyết.
-  - **Mindmap**: Sử dụng mindmap để trực quan hóa các bước giải quyết vấn đề.
+  - Tạo sơ đồ các bước xử lý cho bài toán trước khi bắt tay vào lập trình.
 
 ### Thực hành với bài toán tư duy
+
 - **Bài toán mê cung**:
-  - Thực hành tìm đường trong mê cung bằng cách sử dụng tư duy logic.
-  - Chia sẻ bài toán với học viên và để họ đưa ra cách tiếp cận giải quyết.
+  - Học viên thực hành bài toán tìm đường trong mê cung để rèn luyện tư duy logic.
+  - Giảng viên hướng dẫn từng bước và khuyến khích học viên đưa ra nhiều cách giải quyết.
 
-## 2. Môi trường phát triển phần mềm nâng cao
-### Tùy chỉnh IDE và tối ưu hoá công cụ
-- **Sử dụng Visual Studio Code và các extension mạnh mẽ**:
-  - **Settings Sync**: Đồng bộ hóa các thiết lập giữa các máy tính khác nhau.
-  - **ESLint và Prettier**: Công cụ tự động kiểm tra và định dạng code.
+## 2. Kỹ năng quản lý thời gian và năng suất làm việc
 
-### Thiết lập môi trường phát triển với Docker
-- **Tại sao cần Docker?**:
-  - Docker giúp thiết lập môi trường phát triển đồng nhất trên mọi máy tính.
-  - So sánh Docker với các phương pháp khác như Virtual Machine.
-  
-- **Cấu hình Docker cho dự án**:
-  - **Thực hành cài đặt Docker**: Hướng dẫn cách cài đặt Docker và thiết lập một môi trường phát triển ảo.
-  - **Thực hành tạo container đơn giản**: Cấu hình một ứng dụng đơn giản bằng Docker và tạo container.
+### Lập kế hoạch và phân chia thời gian
 
-### Thực hành cấu hình môi trường ảo
-- **Hướng dẫn cấu hình và chạy Docker container**:
-  - Tạo một Docker container cho ứng dụng phát triển web.
-  - Học viên thực hành cấu hình và chạy container trên máy cá nhân.
+- **Phân chia thời gian hiệu quả**:
 
-## 3. Công cụ quản lý dự án và làm việc nhóm
-### Các phương pháp quản lý dự án
-- **Waterfall vs Agile**:
-  - Giới thiệu về hai phương pháp quản lý phổ biến trong phát triển phần mềm.
-  - **Waterfall**: Từng bước tiến hành theo thứ tự.
-  - **Agile**: Phương pháp linh hoạt, chia nhỏ dự án thành các chu kỳ phát triển ngắn (sprint).
+  - Hướng dẫn cách lập kế hoạch hàng tuần, hàng ngày để đạt được năng suất cao nhất.
+  - Cách chia nhỏ thời gian cho từng task cụ thể.
 
-- **Thực hành phân chia công việc với Trello**:
-  - Tạo các nhiệm vụ và phân chia công việc trong nhóm qua Trello.
-  - **Thực hành Kanban**: Học viên tạo bảng Trello với các cột "To Do", "In Progress", "Done" và phân chia nhiệm vụ cụ thể cho dự án.
+- **Kỹ thuật Pomodoro**:
+  - Giới thiệu về kỹ thuật Pomodoro: làm việc trong các khoảng thời gian ngắn (25 phút) và nghỉ ngơi ngắn (5 phút).
+  - Học viên thực hành lập kế hoạch theo kỹ thuật này.
 
-## 4. Quy trình làm việc nhóm và phát triển phần mềm
-### Scrum và Agile chi tiết
-- **Scrum chi tiết hơn**:
-  - **Sprint Planning**: Cách lập kế hoạch cho từng sprint.
-  - **Daily Stand-up**: Cách tổ chức các cuộc họp ngắn hàng ngày để theo dõi tiến độ.
+### Công cụ hỗ trợ tăng năng suất
 
-### Vai trò của các thành viên trong nhóm
-- **Phân tích vai trò chi tiết**:
-  - Product Owner: Quản lý yêu cầu khách hàng và giám sát tiến độ sản phẩm.
-  - Scrum Master: Hỗ trợ nhóm phát triển, loại bỏ các trở ngại.
-  - Developer: Tập trung vào việc phát triển chức năng và giải quyết các vấn đề kỹ thuật.
+- **Todoist**: Giới thiệu về ứng dụng Todoist để quản lý công việc cá nhân.
+- **Google Calendar**: Cách sử dụng Google Calendar để lên lịch làm việc hiệu quả.
+- **RescueTime**: Theo dõi và phân tích thời gian sử dụng máy tính nhằm tối ưu hóa thói quen làm việc.
 
-## 5. Công cụ quản lý phiên bản (Version Control)
-### Git chuyên sâu
-- **Branching và Merging**:
-  - Giải thích khái niệm branch và khi nào cần tạo branch mới.
-  - **Thực hành merge code**: Hướng dẫn học viên cách thực hiện merge code mà không xảy ra xung đột.
+## 3. Công cụ lập trình cơ bản
 
-- **Collaborative Git Workflow**:
-  - **Pull Request (PR)**: Khái niệm PR và quy trình làm việc qua PR.
-  - **Code Review**: Hướng dẫn cách thực hiện code review trước khi merge vào nhánh chính.
+### Giới thiệu về IDE (Visual Studio Code)
 
-### Thực hành sử dụng GitHub/GitLab
-- **Tạo dự án trên GitHub/GitLab**:
-  - Thực hành tạo repository từ đầu và phân chia quyền hạn cho các thành viên.
+- **Cài đặt và thiết lập cơ bản**:
 
-- **Thực hành branch, commit, và pull request**:
-  - Học viên thực hiện các thao tác branch, commit, và tạo pull request với sự hướng dẫn chi tiết.
+  - Hướng dẫn học viên cách cài đặt Visual Studio Code.
+  - Giới thiệu về các tính năng cơ bản và giao diện làm việc.
 
-## 6. Công cụ kiểm tra và phân tích mã nguồn
-### Cách kiểm tra mã tự động
-- **Continuous Integration (CI)**:
-  - Giới thiệu về CI và lý do cần thiết lập kiểm tra tự động cho dự án.
-  - **Jenkins/GitHub Actions**: Giới thiệu cách cài đặt và cấu hình CI cho dự án.
+- **Cài đặt extension cần thiết**:
+  - **ESLint**: Tự động kiểm tra lỗi mã nguồn.
+  - **Prettier**: Định dạng mã nguồn.
 
-### Thực hành với SonarQube
-- **Kiểm tra chất lượng mã với SonarQube**:
-  - Học viên thực hành cài đặt và sử dụng SonarQube để phân tích chất lượng mã.
-  - Đưa ra các bài tập về kiểm tra code với SonarQube.
+### Các công cụ kiểm tra và định dạng mã nguồn (ESLint, Prettier)
 
-## 7. Tư duy tối ưu hoá và phân tích hiệu năng
-### Tư duy tối ưu hoá
-- **Tối ưu hoá trước hay sau khi hoàn thành sản phẩm?**:
-  - Thảo luận về việc khi nào nên tối ưu hóa ứng dụng: trong quá trình phát triển hay sau khi ra mắt.
+- **ESLint**: Giới thiệu về cách hoạt động của ESLint và cách sử dụng để kiểm tra lỗi cú pháp.
+- **Prettier**: Cách cài đặt Prettier để định dạng code theo chuẩn.
 
-### Công cụ phân tích hiệu năng
-- **Google Lighthouse**:
-  - Hướng dẫn sử dụng Google Lighthouse để phân tích hiệu năng và tối ưu hoá tốc độ trang web.
-  
-- **Thực hành phân tích một trang web**:
-  - Học viên thực hành tối ưu hoá một trang web bằng cách sử dụng các công cụ như Lighthouse.
+### Sử dụng terminal cơ bản
 
-## 8. Câu hỏi và giải đáp
-- Dành thời gian để học viên đặt câu hỏi và giải đáp các thắc mắc về nội dung buổi học.
+- **Terminal trong VSCode**:
+  - Hướng dẫn sử dụng terminal tích hợp trong VSCode.
+  - Thực hành các lệnh cơ bản: `cd`, `ls`, `mkdir`, `touch`.
 
-## 9. Tổng kết và bài tập về nhà
+### Thực hành cấu hình môi trường phát triển
+
+- **Tạo project mới**:
+  - Học viên thực hành tạo project JavaScript/Node.js mới từ terminal.
+- **Sử dụng Git trong VSCode**:
+  - Hướng dẫn cách sử dụng Git để quản lý phiên bản ngay trong VSCode.
+
+## 4. Công cụ quản lý dự án và làm việc nhóm
+
+### Giới thiệu về Trello
+
+- **Quản lý công việc với Trello**:
+  - Giới thiệu về Trello, các tính năng cơ bản như bảng, danh sách, thẻ công việc.
+  - Tạo một dự án mẫu để học viên tham gia quản lý công việc.
+
+### Thực hành quản lý dự án trên Trello
+
+- **Phân công nhiệm vụ**:
+  - Học viên tạo bảng Trello riêng và phân chia công việc.
+  - Sử dụng các cột "To Do", "In Progress", "Done" để theo dõi tiến độ dự án.
+
+## 5. Câu hỏi và giải đáp
+
+- **Thời gian dành cho câu hỏi**:
+  - Học viên có thể đặt câu hỏi liên quan đến nội dung đã học hoặc thảo luận về các thắc mắc trong quá trình học.
+
+## 6. Tổng kết và bài tập về nhà
+
 ### Tổng kết
-- Tóm tắt lại các nội dung chính đã học trong buổi học.
+
+- **Tóm tắt lại nội dung**:
+  - Tóm tắt lại các nội dung đã học: tư duy logic, cấu hình môi trường lập trình, quản lý dự án bằng Trello.
 
 ### Bài tập về nhà
-- **Tối ưu hóa trang web**: Yêu cầu học viên tối ưu hóa một trang web cá nhân và báo cáo kết quả với Google Lighthouse.
-- **Quản lý dự án với Trello**: Học viên tạo bảng Trello quản lý dự án cá nhân hoặc nhóm.
-- **Thực hành Git nâng cao**: Học viên thực hiện bài tập quản lý phiên bản với GitHub, bao gồm tạo branch, pull request, và merge code.
 
+- **Bài tập quản lý dự án cá nhân**:
+  - Học viên thực hành tạo một dự án nhỏ, sử dụng Trello để quản lý và nộp báo cáo tiến độ.
